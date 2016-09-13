@@ -3,6 +3,11 @@ These are the adapter designs for Voigtlander Vito Automatic Family.
 
 These cameras have a Voigtlander Lanthar 50mm f/2.8 lenses.
 
+### Tools needed
+
+1. 1/16" (or 1.5mm) slotted screw driver, better hardened
+2. A spanner wrench, I recommend [this one](https://www.amazon.com/gp/product/B00NURCWTC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=taoproductivi-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00NURCWTC&linkId=819a7fd85e6f163c7da14439943b5512).
+
 ### How to detach the lens
 
 To be added
