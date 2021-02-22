@@ -12,6 +12,10 @@ These cameras have a Voigtlander Lanthar 50mm f/2.8 lenses.
 
 To be added
 
+### More information
+
+[Voigtlander Vito Automatic lens adapter](https://www.taomaker.com/blog/2016-09-13.html)
+
 ### Sony E-Mount
 
 #### 3D print designs
