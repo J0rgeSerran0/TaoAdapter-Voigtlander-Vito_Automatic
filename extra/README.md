@@ -10,7 +10,7 @@ I am trying to re-use the **Voigtlander lens** of an old **Voigtlander Vito CL**
 
 To do this:
 - Remove and clean the lens
-- A L39-NEX adaptor [Amazon - Spain](https://www.amazon.es/gp/product/B084MDB1YS/)
+- A L39-NEX adaptor => [Amazon - Spain](https://www.amazon.es/gp/product/B084MDB1YS/)
 - The 3D pieces that [taomaker](https://github.com/taomaker) shared
 
 Additional tools:
